@@ -1,35 +1,6 @@
-## Welcome to KeYingLove
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mangludexiaozhu/meng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# KeYingLove
+一件事情，你坚持做了三天，那是心血来潮，你坚持了三个月，那是刚刚上场！你坚持了三年那才算得上事业，如果你做什么事都要求立马有回报，那注定这辈子只能是一事无成，成功路上并不拥挤，因为坚持的人不多！坚持就是胜利，早安，加油！
+# 目录
+  ## 1.常用工具
+   ### LinkMap解析工具：检查每个类占用大小 [LinkMap](https://github.com/huanxsd/LinkMap) 
+      
